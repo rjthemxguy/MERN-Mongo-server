@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://rj:Hapkido1!@cluster0.iiuhn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
